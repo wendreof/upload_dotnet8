@@ -5,7 +5,7 @@ using upload.Domain.Storage;
 
 namespace upload.Application.UseCases.Users.UploadProfilePhoto
 {
-    public class UploadProfilePhotoUseCase
+    public class UploadProfilePhotoUseCase: IUploadProfilePhotoUseCase
     {
         private readonly IStorageService _storageService;
         public  UploadProfilePhotoUseCase(IStorageService storageService)

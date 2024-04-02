@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upload", "upload\upload.csproj", "{712D0C73-C9B8-4E86-A09D-2923245FBBBB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upload.Api", "upload.Api\upload.csproj", "{712D0C73-C9B8-4E86-A09D-2923245FBBBB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upload.Application", "upload.Application\upload.Application.csproj", "{A7F219AA-BC07-4FBA-8BBB-E7A45B44F793}"
 EndProject

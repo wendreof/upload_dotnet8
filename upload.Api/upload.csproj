@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\upload.Application\upload.Application.csproj" />
+    <ProjectReference Include="..\upload.Infrastructure\upload.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
